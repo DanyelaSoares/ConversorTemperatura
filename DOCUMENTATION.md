@@ -31,7 +31,6 @@ Permitir que o usuário realize conversões de temperatura de forma correta e in
 - **RF02:** O sistema deve permitir conversão para qualquer uma das outras duas unidades.  
 - **RF03:** O sistema deve exibir o resultado da conversão com duas casas decimais.  
 - **RF04:** O sistema deve validar entradas inválidas e informar o usuário.  
-- **RF05:** O sistema deve permitir múltiplas conversões em sequência, sem reiniciar o programa.
 
 ---
 
@@ -68,6 +67,7 @@ Digite a temperatura: 100
 Digite a unidade da temperatura original (C, F ou K): C
 Digite a unidade para converter (C, F ou K): F
 100.00 C equivalem a 212.00 F
+
 ```
 ## 8. Tecnologias Utilizadas
 
@@ -81,6 +81,6 @@ Digite a unidade para converter (C, F ou K): F
 * Internacionalização (multi-idiomas)
 * Implementar testes automatizados para validar conversões
 
-10. Autor
+## 10. Autor
 
 * Daniela Soares — Estudante de Análise de Requisitos e Desenvolvedora em aprendizado
