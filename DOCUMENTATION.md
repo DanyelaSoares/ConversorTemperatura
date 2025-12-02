@@ -30,7 +30,7 @@ Permitir que o usuário realize conversões de temperatura de forma correta e in
 - **RF01:** O sistema deve receber uma temperatura em Celsius, Fahrenheit ou Kelvin.  
 - **RF02:** O sistema deve permitir conversão para qualquer uma das outras duas unidades.  
 - **RF03:** O sistema deve exibir o resultado da conversão com duas casas decimais.  
-- **RF04:** O sistema deve validar entradas inválidas e informar o usuário.  
+- **RF04:** O sistema deve validar entradas inválidas e informar o usuário.
 
 ---
 
@@ -67,7 +67,6 @@ Digite a temperatura: 100
 Digite a unidade da temperatura original (C, F ou K): C
 Digite a unidade para converter (C, F ou K): F
 100.00 C equivalem a 212.00 F
-
 ```
 ## 8. Tecnologias Utilizadas
 
